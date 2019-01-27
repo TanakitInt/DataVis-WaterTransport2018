@@ -1,7 +1,7 @@
 # DataVis-WaterTransport2018
 
-##Data Visualization Project
-Originally visualize on 2018-11-14 (Y-M-D)
+## Data Visualization Project
+This project was originally visualized on 14 November 2018.
 
 Using "tableau" to open the file .twb  
 Tableau can be download here :
